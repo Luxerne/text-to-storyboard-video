@@ -1,0 +1,7 @@
+interface:
+  display_name: "文字转分镜与首尾帧"
+  short_description: "将文字自动转成完整分镜、首尾帧图片及连续图生视频提示词"
+  default_prompt: "Use $text-to-storyboard-video to turn this text into a storyboard, matching first/end-frame images, and image-to-video prompts."
+
+policy:
+  allow_implicit_invocation: true
